@@ -1,2 +1,2 @@
 # Sapre
-A sales predictor python script using ML models
+A weekly sales predictor python script using ML models
