@@ -1,2 +1,2 @@
 # Sapre
-A weekly sales predictor python script using ML models
+A weekly sales predictor python script using RandomForestRegressor and XGBRegressor ML models
